@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/currencysymbols",
+  "version": "1.0.0",
+  "description": "Currency Symbols is a simple tool for getting currency symbols. It returns the currency symbol, name, and more of a currency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/currencysymbols-API.git"
+  },
+  "keywords": [
+    "currency symbols"," currency symbols api"," currency symbols tool"," currency symbols software"," currency symbols service"," currency symbols library"," currency symbols sdk"," currency symbols code"," currency symbols script"," currency symbols program"," currency symbols application"," currency symbols app"," currency symbols utility"," currency symbols helper"," currency symbols helper tool"," currency symbols helper software"," currency symbols helper service"," currency symbols helper library"," currency symbols helper sdk"," currency symbols helper code"," currency symbols helper script"," currency symbols helper program"," currency symbols helper application"," currency symbols helper app"," currency symbols helper tool"," currency symbols helper utility"," currency symbols helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/currencysymbols-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/currencysymbols-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
