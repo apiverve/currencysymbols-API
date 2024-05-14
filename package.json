@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/currencysymbols-API.git"
   },
   "keywords": [
-    "currency symbols"," currency symbols api"," currency symbols tool"," currency symbols software"," currency symbols service"," currency symbols library"," currency symbols sdk"," currency symbols code"," currency symbols script"," currency symbols program"," currency symbols application"," currency symbols app"," currency symbols utility"," currency symbols helper"," currency symbols helper tool"," currency symbols helper software"," currency symbols helper service"," currency symbols helper library"," currency symbols helper sdk"," currency symbols helper code"," currency symbols helper script"," currency symbols helper program"," currency symbols helper application"," currency symbols helper app"," currency symbols helper tool"," currency symbols helper utility"," currency symbols helper"
+    "currency symbols","currency symbols api","currency symbols tool","currency symbols software","currency symbols service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
