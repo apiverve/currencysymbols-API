@@ -226,7 +226,8 @@ api.execute(query, function (error, data) {
       }
     ],
     "currency": "USD"
-  }
+  },
+  "code": 200
 }
 ```
 
